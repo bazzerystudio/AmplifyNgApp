@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~11.0.5",
     "@angular/platform-browser-dynamic": "~11.0.5",
     "@angular/router": "~11.0.5",
+    "@aws-amplify/ui": "^2.0.2",
+    "@types/graphql": "^14.5.0",
+    "aws-amplify": "^3.3.13",
+    "aws-amplify-angular": "^5.0.42",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
